@@ -61,6 +61,6 @@ Tài liệu tham khảo
 
 Nếu có bất cứ khó khăn hay thắc mắc, hãy liên hệ cho CLB thông qua email hoặc fanpage
 
-[icon.acaclub@it.tdt.edu.vn](icon.acaclub@it.tdt.edu.vn)
+[icon.acaclub@it.tdt.edu.vn](mailto:icon.acaclub@it.tdt.edu.vn)
 
 [https://www.facebook.com/iconclub.it.tdtu](https://www.facebook.com/iconclub.it.tdtu)
