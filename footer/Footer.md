@@ -5,6 +5,23 @@
 Trong thư mục này, các thí sinh có thể tìm được tập tin **footer.html** và ảnh logo CLB **iconLogo.png**, tập 
 tin này chứa nội dung đoạn code mà cần thêm vào sản phẩm. 
 
+*footer.html*
+```html
+<footer 
+    style="position: absolute; bottom: 20px; right: 0; 
+    display: flex; justify-content: flex-end;
+    width: 100%; align-items: center;">
+    <div style="text-align: right;
+    line-height: 1.25; font-weight: bold;
+    font-size: 18px">
+        <span id="icon-name" style="display: block;">Nguyễn Thành Tiến</span>
+        <span style="display: block;"></span>
+    </div>
+    <img style="width: 120px;
+    height: auto;" src="./iconLogo.png" alt="ICON">
+</footer>
+```
+
 ## Bước 2. Thêm vào sản phẩm
 
 Với đoạn code mà chúng ta đã copy ở trên, bây giờ chúng ta sẽ thêm đoạn code đó vào cuối thẻ **body** hoặc
