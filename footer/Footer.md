@@ -14,7 +14,7 @@ một thẻ nào đó chứa hết sản phẩm và để ảnh logo CLB trong c
 
 Bây giờ đối với các hình thức tham gia khác nhau mà chúng ta cần sửa lại các thẻ **span**. CLB giả định là 
 CLB đang tham gia cuộc thi với lớp là 18050302 và tên đội là ICONIC.
-Thể nên chúng ta cần sửa lần lượt hai thẻ **span** thành 18050302 và ICONIC
+Thể nên chúng ta cần sửa lần lượt hai thẻ **span** thành 18050302 và ICONIC.
 Tương tự với cá nhân là Nguyễn Thành Tiến, 51800636
 
 ![Tập thể](./Team.png)
