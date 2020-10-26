@@ -8,7 +8,7 @@ copy đoạn code phía dưới.
 *footer.html*
 ```html
 <footer 
-    style="position: absolute; bottom: 20px; right: 0; 
+    style="bottom: 20px; right: 0; 
     display: flex; justify-content: flex-end;
     width: 100%; align-items: center;">
     <div style="text-align: right;
